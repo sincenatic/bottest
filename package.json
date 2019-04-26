@@ -1,0 +1,21 @@
+{
+  "name": "bottest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "sincenatic",
+  "license": "MIT",
+  "dependencies": {
+    "actions-on-google": "^2.6.0",
+    "body-parser": "^1.18.3",
+    "dialogflow-fulfillment": "^0.6.1",
+    "express": "^4.16.4",
+    "firebase-admin": "^7.3.0",
+    "firebase-functions": "^2.3.0",
+    "request": "^2.88.0"
+  }
+}
