@@ -1,6 +1,6 @@
 # bottest
 demo
-git clone https://github.com/sincenatic/bottest.git bottest
-npm install
-atom . 
-npm start for run the server
+git clone https://github.com/sincenatic/bottest.git bottest/n
+npm install/n
+atom . /n
+npm start for run the server/n
